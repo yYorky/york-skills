@@ -27,8 +27,8 @@ A personal library of Claude Code skills for personal productivity and creative 
 
 | Skill | What it will do |
 |-------|-----------------|
-| `linkedin-post` | Generate LinkedIn posts in my brand voice |
-| `powerpoint-deck` | Create brand-aware slide decks |
+| Placeholder | Placeholder |
+| Placeholder | Placeholder|
 
 ---
 
